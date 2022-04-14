@@ -2,10 +2,10 @@
   "name": "BootyBandits Emote Pack",
   "author": "BootyBandits",
   "emotes": [
-    { "name": "bb_bb", "url": "https:\/\/github.com\/BootyBandits\/emoji-pack\/blob\/main\/emojis\/bb_bb.webp" },
-    { "name": "bb_bruh", "url": "https:\/\/github.com\/BootyBandits\/emoji-pack\/blob\/main\/emojis\/bb_bruh.webp" },
-    { "name": "bb_clapncheeks", "url": "https:\/\/github.com\/BootyBandits\/emoji-pack\/blob\/main\/emojis\/bb_clapncheeks.webp" },
-    { "name": "bb_clipperschmackle", "url": "https:\/\/github.com\/BootyBandits\/emoji-pack\/blob\/main\/emojis\/bb_clipperschmackle.webp" },
-    { "name": "bb_co", "url": "https:\/\/github.com\/BootyBandits\/emoji-pack\/blob\/main\/emojis\/bb_co.webp" }
+    { "name": "1234-bb-bb", "url": "https:\/\/github.com\/BootyBandits\/emoji-pack\/blob\/main\/emojis\/bb_bb.webp" },
+    { "name": "4567-bb-bruh", "url": "https:\/\/github.com\/BootyBandits\/emoji-pack\/blob\/main\/emojis\/bb_bruh.webp" },
+    { "name": "7890-bb-clapncheeks", "url": "https:\/\/github.com\/BootyBandits\/emoji-pack\/blob\/main\/emojis\/bb_clapncheeks.webp" },
+    { "name": "1345-bb-clipperschmackle", "url": "https:\/\/github.com\/BootyBandits\/emoji-pack\/blob\/main\/emojis\/bb_clipperschmackle.webp" },
+    { "name": "5231-bb-co", "url": "https:\/\/github.com\/BootyBandits\/emoji-pack\/blob\/main\/emojis\/bb_co.webp" }
   ]
  }
