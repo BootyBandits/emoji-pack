@@ -1,0 +1,14 @@
+{
+  "name": "BootyBandits Emote Pack",
+  "author": "Colby Dement",
+  "emotes": [
+  {
+  "name": "gil_wut",
+  "url": "https://emoji.gg/assets/emoji/6017_gil_wut.png"
+  },
+  {
+  "name": "gil_woah",
+  "url": "https://emoji.gg/assets/emoji/9837_gil_woah.png"
+  }
+  ]
+ }

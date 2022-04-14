@@ -1,0 +1,22 @@
+{
+  "name": "emoji-pack",
+  "version": "1.0.0",
+  "description": "BootyBandits emoji pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BootyBandits/emoji-pack.git"
+  },
+  "keywords": [
+    "emoji"
+  ],
+  "author": "Colby Dement",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BootyBandits/emoji-pack/issues"
+  },
+  "homepage": "https://github.com/BootyBandits/emoji-pack#readme"
+}
